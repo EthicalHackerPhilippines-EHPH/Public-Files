@@ -1,5 +1,5 @@
 # Requirements
-# install brew
+## Installation 
 ```sh
 # resources
 # goclone
