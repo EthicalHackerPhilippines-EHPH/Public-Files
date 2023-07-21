@@ -25,12 +25,12 @@ $ brew doctor
 Your system is ready to brew
 
 STEP 5: 
-Install goclone 
+# Install goclone 
 $ brew tap imthaghost/goclone 
 $ brew install goclone 
 
 STEP 6:
-Testing goclone 
+# Testing goclone 
 $ goclone --help, -h
 
 STEP 7:
