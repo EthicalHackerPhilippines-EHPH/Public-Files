@@ -1,5 +1,5 @@
 ## Pentesting Tools are displayed here 
-```py
+```sh
 # Tools related 
 Privilege Escalations
 Malware Analysis
