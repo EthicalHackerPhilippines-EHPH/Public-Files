@@ -2,7 +2,9 @@
 ```sh
 https://github.com/imthaghost/goclone
 https://www.goclone.io/
-
+```
+### brew installation 
+```sh
 $ sudo apt update
 $ sudo apt install build-essential curl git
 
@@ -13,15 +15,16 @@ $ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 $ brew doctor 
 Your system is ready to brew
-
-# Installing goclone 
+```
+#### goclone installation 
+```sh
 $ brew tap imthaghost/goclone 
 $ brew install goclone 
 
 # goclone help command 
 $ goclone --help, -h
 
-# clone test
+# run command
 # Use current directory
 $ goclone https://www.example.com/login.php
 ```
