@@ -14,7 +14,7 @@ $ echo 'eval "$(/home/kali/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> ~/.profi
 $ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 $ brew doctor 
-Your system is ready to brew
+# Your system is ready to brew
 ```
 #### goclone installation 
 ```sh
