@@ -16,7 +16,7 @@ $ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 $ brew doctor 
 # Your system is ready to brew
 ```
-#### goclone installation 
+### Goclone installation 
 ```sh
 $ brew tap imthaghost/goclone 
 $ brew install goclone 
