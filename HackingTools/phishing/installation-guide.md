@@ -1,4 +1,4 @@
-# Requirements for Installation 
+# Requirements
 ```sh
 https://github.com/imthaghost/goclone
 https://www.goclone.io/
